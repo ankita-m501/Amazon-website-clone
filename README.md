@@ -1,4 +1,1 @@
-This is the Amazon website clone using HTML ,CSS and JAvaScript.
-<br>
-Basically frontend with a little bit of backend.
-<br>
+A fully functional e-commerce web app inspired by Amazon, built using HTML, CSS, and JavaScript. Features include dynamic product listings, shopping cart, order placement, and a checkout page with estimated delivery dates.
